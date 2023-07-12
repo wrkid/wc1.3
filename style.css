@@ -300,13 +300,13 @@ div.scrollmenu a:hover,  div.scrollmenu a:focus{
         display: flex;
     }
 
-   .large_size_nav {
+   .main__header-navigator-1120 {
     display: flex;
     margin-right: 32px;
     text-decoration: none;
    }
 
-   .large_size_nav:visited {
+   .main__header-navigator-1120:visited {
     color: #1B1C21;
     text-decoration: none;
    }
